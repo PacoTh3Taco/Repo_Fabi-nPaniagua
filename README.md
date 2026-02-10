@@ -1,2 +1,2 @@
-# Repo_Fabi-nPaniagua
+# Repo_FabianPaniagua
 Repositorio para mostrar mis "skills" con git
